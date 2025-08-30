@@ -1,0 +1,6 @@
+path: /hd2/marcos/research/repos/cross-domain-pig-detection/data/PigLife  
+train: train/images
+val: val/images
+test: test/images
+nc: 1
+names: ['pig']
